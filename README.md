@@ -23,5 +23,5 @@ Es soll mittels einer Veröffentlichung ein Augenmerk auf die handwerklichen Kur
 * Kommunikationskanäle Schule (gratis)
 * ISBN-Nummer und über den Buchhandel bestellbar (CHF 1.00 für Buchhändler, Verkaufspreis: CHF 13.90)
 
-### Finanzierung
+### Finanzen
 ?
