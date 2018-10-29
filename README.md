@@ -1,7 +1,7 @@
 # Handwerk und Gestaltung
 
 ## Vorschlag 
-Es soll mittels einer Veröffentlichung ein Augenmerk auf die handwerklichen Kurse am SfGZ geben. Damit es nicht einfach eine «Werbebroschüre» wird, sollen die Kurse einerseits beleuchtet werden, anderseits sollen aktuelle Themen behandelt werden, die sich mit der Thematik auseinander setzen. Es soll eine reich bebilderte Publikation entstehen, die zu jedem Kurs zwei Texte behinhaltet. 
+Es soll mittels einer Veröffentlichung ein Augenmerk auf die handwerklichen Kurse am SfGZ geben. Damit es nicht einfach eine «Werbung» wird, sollen einerseits die Kurse beleuchtet werden, anderseits sollen aktuelle Themen behandelt werden, die sich mit der Thematik auseinander setzen. Es soll eine reich bebilderte Publikation entstehen, die zu jedem Kurs zwei Texte behinhaltet. 
 
 
 ### Inhalt
@@ -19,6 +19,9 @@ Es soll mittels einer Veröffentlichung ein Augenmerk auf die handwerklichen Kur
 * Papier-Publikation
 * Website
 
+### Vertrieb
+* Kommunikationskanäle Schule (gratis)
+* ISBN-Nummer und über den Buchhandel bestellbar (gratis für Buchhändler, Verkaufspreis: CHF 13.90)
 
 ### Finanzierung
 ?
