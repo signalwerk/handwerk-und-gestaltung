@@ -18,3 +18,7 @@ Es soll mittels einer Veröffentlichung ein Augenmerk auf die handwerklichen Kur
 ### Formal
 * Papier-Publikation
 * Website
+
+
+### Finanzierung
+?
