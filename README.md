@@ -1,7 +1,7 @@
 # Handwerk und Gestaltung
 
 ## Vorschlag 
-Es soll mittels einer Veröffentlichung ein Augenmerk auf die handwerklichen Kurse am SfGZ geben. Damit es nicht einfach eine «Werbebroschüre» wird, sollen die Kurse einerseits beleuchtet werden, anderseits sollen aktuelle Themen behandelt werden, die sich mit der Thematik auseinander setzen.
+Es soll mittels einer Veröffentlichung ein Augenmerk auf die handwerklichen Kurse am SfGZ geben. Damit es nicht einfach eine «Werbebroschüre» wird, sollen die Kurse einerseits beleuchtet werden, anderseits sollen aktuelle Themen behandelt werden, die sich mit der Thematik auseinander setzen. Es soll eine reich bebilderte Publikation entstehen, die zu jedem Kurs zwei Texte behinhaltet. 
 
 
 ### Inhalt
