@@ -17,7 +17,7 @@ Es soll mittels einer Veröffentlichung eine Fokussierung auf die gestalterische
 | **Kupferdruck/Radierung**                       | Franziska Schiratzki | **?? Künstler und Kupfer ?? eventl.** – Mathias Gentinetta & Rudolf & Stefan | 
 | **Siebdruck**                         | Sibylle Minod        | **Vom Küchentisch ins Kunsthaus** – Ronny Hunger & Stefan         | 
 | **Buchbinden** | Piär Amrein | **Buchbinden ist Bubi-einfach** |
-| **Animation** | Jane Gebel | **Animation und Micro-Animatino** Boris Périsset |
+| **Animation** | Jane Gebel | **Animation und Micro-Animation** Boris Périsset & Stefan |
 | **Aktzeichnen** | Andrea Caprez | ?? |
 | **Illustration** | Andrea Caprez | ?? |
 
