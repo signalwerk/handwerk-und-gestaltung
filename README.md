@@ -1,7 +1,10 @@
 # Handwerk und Gestaltung
 
 ## Vorschlag 
-Es soll mittels einer Veröffentlichung eine Fokussierung auf die gestalterischen, künstlerischen und handwerklichen Prozesse und Produkte der Kurse an der SfGZ geben. Damit es nicht einfach eine «nichtssagende Reklame» wird, sollen einerseits die Kurse etwas beleuchtet werden, anderseits sollen aktuelle Fragestellungen angeschnitten werden, die sich aus dem jeweiligen Fach ergeben. Es soll eine reich bebilderte Publikation entstehen, die zu jedem Kurs zwei Texte beinhaltet sowie vier bis acht Abbildungen.
+Da das kunstgewerbliche Kurswesen an der SfGZ im Dornröschenschlaf versunken liegt und eine wirksame Öffentlichkeits- und Lobby-Arbeit fehlt, geht es in unserer Initiative darum, auf die einzigartigen Kurse mittels Unterrichtsergebnissen und informativen Texten hinzuweisen.
+Angedacht ist ein Printprodukt (z.B. Zeitung oder geleimtes Heftchen) begleitet von einer Website, welche Einblicke in die verschiedenen Kurse ermöglichen und in den Kreis von GestalterInnen im Raum Zürich eingespeist werden kann.
+Die Veröffentlichung soll eine Fokussierung auf die gestalterisch, und zum Teil künstlerisch handwerklichen Prozesse und Produkte der Kurse an der SfGZ gewährleisten. Damit es eine informative Reklame wird, sollen einerseits die Kurse etwas beleuchtet werden sowie aktuelle Fragestellungen angeschnitten, die sich aus dem jeweiligen Themenfeld ergeben. Es soll eine reich bebilderte Publikation entstehen, die zu jedem angebotenen Kurs zwei Texte beinhaltet sowie vier bis acht Abbildungen, vorzüglich gedruckt und für eine Website gerecht aufbereitet.
+Unser Produkt enthält nur Kurse, die ihren Schwerpunkt auf gestalterische Prozesse legen. Kurse, wo Programme oder Technologien vermittelt werden, sind nicht Teil unseres Produkts.
 
 
 ## Inhalt
@@ -15,7 +18,6 @@ Es soll mittels einer Veröffentlichung eine Fokussierung auf die gestalterische
 | **Lithografie**                       | Pirmin Melchior Jost | **Walz** –  Grafikwerkstatt Dresden & Stefan                      | 
 | **Analoge Typographie** (Bleisatz)                          | **Primärerfahrungen mit Bleilettern, Druckfarben, Papieroberflächen sowie typographisches Entwickeln und Gestalten an der Maschine** – Rudolf Barmettler    | **Hochdruck im 21. Jahrhundert** – Dafi Kühne & Rulolf & Stefan   | 
 | **Kupferdruck/Radierung**                       | Franziska Schiratzki | **?? Künstler und Kupfer ?? eventl.** – Mathias Gentinetta & Rudolf & Stefan | 
-| **Siebdruck**                         | Sibylle Minod        | **Vom Küchentisch ins Kunsthaus** – Ronny Hunger & Stefan         | 
 | **Buchbinden** | Piär Amrein | **Buchbinden ist Bubi-einfach** |
 | **Animation** | Jane Gebel | **Animation und Micro-Animation** Boris Périsset & Stefan |
 | **Aktzeichnen** | Andrea Caprez | ?? |
