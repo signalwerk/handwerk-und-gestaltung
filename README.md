@@ -17,7 +17,7 @@ Unser Produkt enthält nur Kurse, die ihren Schwerpunkt auf gestalterische Proze
 |:-----------------------------------|:----------------------|:---------------------------------------------------------------| 
 | **Lithografie**                       | Pirmin Melchior Jost | **Walz** –  Grafikwerkstatt Dresden & Stefan                      | 
 | **Analoge Typographie** (Bleisatz)                          | **Primärerfahrungen mit Bleilettern, Druckfarben, Papieroberflächen sowie typographisches Entwickeln und Gestalten an der Maschine** – Rudolf Barmettler    | **Hochdruck im 21. Jahrhundert** – Dafi Kühne & Rulolf & Stefan   | 
-| **Kupferdruck/Radierung**                       | Franziska Schiratzki | **?? Künstler und Kupfer ?? eventl.** – Mathias Gentinetta & Rudolf & Stefan | 
+| **Kupferdruck/Radierung**                       | Franziska Schiratzki | **?? Künstler und Kupfer ?? ** – eventl. Mathias Gentinetta & Rudolf & Stefan | 
 | **Buchbinden** | Piär Amrein | **Buchbinden ist Bubi-einfach** |
 | **Animation** | Jane Gebel | **Animation und Micro-Animation** Boris Périsset & Stefan |
 | **Aktzeichnen** | Andrea Caprez | ?? |
