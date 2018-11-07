@@ -1,4 +1,4 @@
-# Handwerk und Gestaltung
+# Handwerk der Gestaltung
 
 ## Vorschlag 
 Da das kunstgewerbliche Kurswesen an der SfGZ im Dornröschenschlaf versunken liegt und eine wirksame Öffentlichkeits- und Lobby-Arbeit fehlt, geht es in unserer Initiative darum, auf die einzigartigen Kurse mittels Unterrichtsergebnissen und informativen Texten hinzuweisen.
