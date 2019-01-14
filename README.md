@@ -32,4 +32,4 @@ Unser Produkt enthält nur Kurse, die ihren Schwerpunkt auf gestalterische Proze
 * ISBN-Nummer und über den Buchhandel bestellbar (CHF 1.00 für Buchhändler, Verkaufspreis: CHF 13.90)
 
 ## Finanzen
-Angenommen: Die Offsetdrucker an der Schule würden dies auf Zeitungspapier drucken auf Papier von zum Beispiel Fischer gesponsert, könnten die Unkosten tief gehalten werden.
+Angenommen: Die Offsetdrucker an der Schule würden dies auf Zeitungspapier drucken auf Papier von zum Beispiel Antalis gesponsert, könnten die Unkosten tief gehalten werden.
