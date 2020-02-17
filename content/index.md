@@ -35,3 +35,17 @@ Diese Website dient der Darstellung der Inhalte und ist nicht als Design zu vers
 ## Aktzeichnen/Illustration
 * [Text zum Kurs](./illustration/) · Andrea Caprez
 * [Text zu Aktzeichnen/Illustration](./illustration-text/) · Noch offen.
+
+
+
+---
+
+## Weitere infos
+
+### Formal
+* Papier-Publikation
+* Website
+
+### Vertrieb
+* Kommunikationskanäle Schule (gratis)
+* ISBN-Nummer und über den Buchhandel bestellbar (CHF 1.00 für Buchhändler, Verkaufspreis: CHF 13.90)
