@@ -33,7 +33,7 @@ header,
 .navigation {
   background: #d3d3d3;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1200px) {
   .col-content {
 
     max-width: 70%;

@@ -5,19 +5,19 @@
 /* @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700"); */
 :root {
   --green-color: #006984;
-  --blue-color: #0054a2;
+  --primary-color: #0054a2;
   --gray-color: #e6e8ea;
   --gray-red: #f00;
 }
 ::-moz-selection {
   background: #0054a2;
-  background: var(--blue-color);
+  background: var(--primary-color);
   color: white;
   text-shadow: none;
 }
 ::selection {
   background: #0054a2;
-  background: var(--blue-color);
+  background: var(--primary-color);
   color: white;
   text-shadow: none;
 }
@@ -100,16 +100,13 @@ html {
           box-sizing: border-box;
   font-family: "webtypo-signalwerk-filler", "webtypo-signalwerk", sans-serif;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.6;
 }
 body {
   padding: 0;
 }
-body,
-p,
-ol,
-ul {
+body {
   font-size: 1rem;
 }
 /* thx github */
@@ -150,11 +147,11 @@ p {
 a {
     text-decoration: none;
     color: #0054a2;
-    color: var(--blue-color);
+    color: var(--primary-color);
 }
 a:visited {
     color: #0054a2;
-    color: var(--blue-color);
+    color: var(--primary-color);
 }
 a:hover {
     color: inherit;
@@ -212,7 +209,7 @@ blockquote {
   margin: 1rem 0;
   padding: 0 1em;
   border-left: 0.25em solid #0054a2;
-  border-left: 0.25em solid var(--blue-color);
+  border-left: 0.25em solid var(--primary-color);
 }
 blockquote > p {
     font-size: inherit;
@@ -227,19 +224,20 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  margin-top: 0.3em;
-  margin-bottom: 0.1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.3em;
 }
 h1 {
   font-size: 1.2rem;
 }
 h1 {
-  margin-top: 0.8em;
+  margin-top: 1.2em;
   margin-bottom: 3em;
 }
 h2 {
   font-size: 1.1rem;
-  margin-top: 3em;
+  margin-top: 2em;
+  margin-bottom: 0.7em;
 }
 h3 {
   font-size: 1rem;
@@ -254,20 +252,20 @@ ul,
 ol {
   padding-left: 1em;
   margin: 0;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
 }
 ul {
   list-style: none;
 }
 li > ul {
-  margin-top: 0rem;
-  margin-bottom: 0rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 ul > li::before {
   content: "–\00A0";
   color: #0054a2;
-  color: var(--blue-color);
+  color: var(--primary-color);
   display: inline-block;
   width: 1em;
   margin-left: -1em;
@@ -300,7 +298,7 @@ ol > li:before {
 
   color: white;
   background: #0054a2;
-  background: var(--blue-color);
+  background: var(--primary-color);
 }
 hr {
   border: none;
@@ -309,6 +307,9 @@ hr {
   margin-top: 2rem;
   background-color: #e6e8ea;
   background-color: var(--gray-color);
+}
+.small {
+  font-size: 0.8em;
 }
 lead p {
   font-weight: 700;
@@ -344,15 +345,11 @@ header  {
     margin-right: auto;
     padding: 1.3rem 0;
   }
-.slide-list ul {
-    margin-top: 0.5rem;
-    margin-bottom: 1.5rem;
-  }
 .box {
   background-color: #e6e8ea;
   background-color: var(--gray-color);
   border-top: 0.1em solid #0054a2;
-  border-top: 0.1em solid var(--blue-color);
+  border-top: 0.1em solid var(--primary-color);
 
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -379,46 +376,84 @@ header  {
   padding-bottom: 0.5em;
 }
 /* components */
+.course {
+  /* border-top: 0.5rem solid black; */
+  /* border-bottom: 1rem solid black; */
+  margin-top: 2rem;
+  padding-top: 0.8rem;
+  padding-bottom: 2rem;
+}
+.course h2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.principles {
+  --primary-color: #fff;
+
+  width: 83%;
+
+  /* font-size: 0.9rem; */
+  background-color: black;
+  padding: 0.6rem 0.8rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: white;
+  /* margin: 2rem auto; */
+}
+.principles h2 {
+  margin: 0.5em;
+}
+.bio {
+  width: 70%;
+}
+.interview p {
+  margin-left: 2rem;
+}
+.pictures__images {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+
+  counter-reset: section;
+}
+.picture__img {
+  width: 15%;
+  margin-bottom: 1rem;
+  counter-increment: section;
+  position: relative;
+}
+.picture__img:after {
+  color: white;
+  background-color: black;
+  content: "Bild " counter(section);
+  display: block;
+  position: absolute;
+  font-size: 0.5em;
+  top: 0;
+  left: 0;
+  padding: 0.2em 0.4em;
+}
+.pictures img {
+  display: block;
+}
 /* @import "../content/spaces/styles"; */
 @media (min-width: 1000px) {
 html {
-    font-size: 16px;
+    font-size: 17px;
+}
+  }
+@media (min-width: 1200px) {
+html {
+    font-size: 18px;
 }
 h1 {
     font-size: 1.3rem;
 }
-.slide-list {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-}
-
-  .slide-list h4,
-  .slide-list ul {
-      -ms-flex-negative: 1;
-          flex-shrink: 1;
-      -webkit-box-flex: 1;
-          -ms-flex-positive: 1;
-              flex-grow: 1;
-  }
-
-  .slide-list h4 {
-      max-width: 45%;
-      -ms-flex-preferred-size: 45%;
-          flex-basis: 45%;
-  }
-
-  .slide-list ul {
-      margin-top: 0.3rem;
-      max-width: 50%;
-      -ms-flex-preferred-size: 50%;
-          flex-basis: 50%;
-  }
   }
 @media print {
   tr {
