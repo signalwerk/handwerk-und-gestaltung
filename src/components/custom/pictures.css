@@ -1,0 +1,33 @@
+.pictures {
+}
+
+.pictures__images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  counter-reset: section;
+}
+
+.picture__img {
+  width: 15%;
+  margin-bottom: 1rem;
+  counter-increment: section;
+  position: relative;
+}
+
+.picture__img:after {
+  color: white;
+  background-color: black;
+  content: "Bild " counter(section);
+  display: block;
+  position: absolute;
+  font-size: 0.5em;
+  top: 0;
+  left: 0;
+  padding: 0.2em 0.4em;
+}
+
+.pictures img {
+  display: block;
+}

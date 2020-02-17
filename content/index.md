@@ -4,21 +4,26 @@ description: Handwerk der Gestaltung
 ---
 
 
-
 # Inhalt
 
 
+<div class="small">
+
 Diese Website dient der Darstellung der Inhalte und ist nicht als Design zu verstehen.  
 
+</div>
 
-## Lithografie
-* [Text zum Kurs](./lithografie/) · Pirmin Melchior Jost
-* [Die Walz im 21. Jahrhundert](./walz/) · Grafikwerkstatt Dresden · Stefan Huber
+
+
+
 
 ## Analoge Typographie (Bleisatz)
 * [Text zum Kurs](./typographie/) · Rudolf Barmettler
 * [Hochdruck heute](./hochdruck/) · Dafi Kühne · Rudolf Barmettler · Stefan Huber
 
+## Lithografie
+* [Text zum Kurs](./lithografie/) · Pirmin Melchior Jost
+* [Die Walz im 21. Jahrhundert](./walz/) · Grafikwerkstatt Dresden · Stefan Huber
 
 ## Kupferdruck/Radierung
 * [Text zum Kurs](./tiefdruck/) · Franziska Schiratzki

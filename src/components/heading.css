@@ -7,8 +7,8 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  margin-top: 0.3em;
-  margin-bottom: 0.1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.3em;
 }
 
 h1 {
@@ -16,13 +16,14 @@ h1 {
   @media (--breakpoint-l) {
     font-size: 1.3rem;
   }
-  margin-top: 0.8em;
+  margin-top: 1.2em;
   margin-bottom: 3em;
 }
 
 h2 {
   font-size: 1.1rem;
-  margin-top: 3em;
+  margin-top: 2em;
+  margin-bottom: 0.7em;
 }
 
 h3 {

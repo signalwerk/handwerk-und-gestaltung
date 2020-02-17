@@ -1,6 +1,6 @@
 .box {
   background-color: var(--gray-color);
-  border-top: 0.1em solid var(--blue-color);
+  border-top: 0.1em solid var(--primary-color);
 
   margin-top: 2rem;
   margin-bottom: 2rem;

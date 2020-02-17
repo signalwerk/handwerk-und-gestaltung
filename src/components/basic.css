@@ -6,13 +6,13 @@
 
 :root {
   --green-color: #006984;
-  --blue-color: #0054a2;
+  --primary-color: #0054a2;
   --gray-color: #e6e8ea;
   --gray-red: #f00;
 }
 
 ::selection {
-  background: var(--blue-color);
+  background: var(--primary-color);
   color: white;
   text-shadow: none;
 }

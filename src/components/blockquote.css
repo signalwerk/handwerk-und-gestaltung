@@ -2,7 +2,7 @@ blockquote {
   font-size: 2rem;
   margin: 1rem 0;
   padding: 0 1em;
-  border-left: 0.25em solid var(--blue-color);
+  border-left: 0.25em solid var(--primary-color);
 
   > p {
     font-size: inherit;

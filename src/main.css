@@ -17,14 +17,21 @@
 @import "./components/heading";
 @import "./components/list";
 @import "./components/hr";
+@import "./components/small";
 @import "./components/lead";
 
 /* components */
 @import "./components/grid";
 @import "./components/header";
 @import "./components/navigation";
-@import "./components/index/slide-list";
 @import "./components/box";
 
 /* components */
+
+@import "./components/custom/course";
+@import "./components/custom/principles";
+@import "./components/custom/bio";
+@import "./components/custom/interview";
+@import "./components/custom/pictures";
+
 /* @import "../content/spaces/styles"; */

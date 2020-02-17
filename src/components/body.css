@@ -5,9 +5,6 @@ body {
   padding: 0;
 }
 
-body,
-p,
-ol,
-ul {
+body {
   font-size: 1rem;
 }

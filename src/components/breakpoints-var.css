@@ -1,3 +1,5 @@
-$breakpoints--l: 1000px;
+$breakpoints--m: 1000px;
+$breakpoints--l: 1200px;
 
+@custom-media --breakpoint-m (min-width: $breakpoints--m);
 @custom-media --breakpoint-l (min-width: $breakpoints--l);
