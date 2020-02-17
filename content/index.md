@@ -37,7 +37,6 @@ Diese Website dient der Darstellung der Inhalte und ist nicht als Design zu vers
 * [Text zu Aktzeichnen/Illustration](./illustration-text/) · Noch offen.
 
 
-
 ---
 
 ## Weitere infos
