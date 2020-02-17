@@ -4,7 +4,7 @@ description: Handwerk der Gestaltung
 ---
 
 
-# Inhalt
+# Inhalt · Handwerk der Gestaltung
 
 
 <div class="small">
