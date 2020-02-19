@@ -19,7 +19,7 @@ Diese Website dient der Darstellung der Inhalte und ist nicht als Design zu vers
 
 ## Analoge Typographie (Bleisatz)
 * [Text zum Kurs](./typographie/) · Rudolf Barmettler
-* [Hochdruck heute](./hochdruck/) · Dafi Kühne · Rudolf Barmettler · Stefan Huber
+* [Hochdruck heute](./hochdruck/) · Eventuell Dafi Kühne · Rudolf Barmettler · Stefan Huber
 
 ## Lithografie
 * [Text zum Kurs](./lithografie/) · Pirmin Melchior Jost
@@ -35,7 +35,7 @@ Diese Website dient der Darstellung der Inhalte und ist nicht als Design zu vers
 
 ## Animation
 * [Text zum Kurs](./animation/) · Jane Gebel
-* [Animation und Micro-Animation](./micro-animation/) · Boris Périsset · Stefan Huber
+* [Animation und Micro-Animation](./micro-animation/) · Eventuell Boris Périsset · Stefan Huber
 
 ## Aktzeichnen/Illustration
 * [Text zum Kurs](./illustration/) · Andrea Caprez
